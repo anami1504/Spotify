@@ -1,0 +1,107 @@
+.homeDiv{
+    /* margin-left: 360px; */
+    background-color: #1e1d1d;
+    color: white;
+}
+
+.homeNav{
+    display: flex;
+    justify-content: space-between;
+    background-color: #101010;
+    padding: 10px;
+    padding-left: 35px;
+    
+}
+.arrow{
+    font-size: 25px;
+    padding-top: 9px;
+}
+.homeSignupBt{
+    background: none;
+    color: #a6a6a6;
+    border: none;
+    margin-right: 40px;
+    font-size: 17px;
+}
+.homeLoginBt{
+    border: none;
+    padding: 1px 20px;
+    height: 50px;
+    width: 100px;
+    border-radius: 25px;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.img{
+    border-radius: 5px;
+    width: 160px;
+}
+.albumDiv{
+    color: white;
+}
+.albums{
+    display: flex;
+    margin-bottom: 90px;
+    
+}
+.album{
+    
+    text-align: center;
+    /* justify-content: space-between; */
+    padding:20px;
+    background-color: rgb(20, 19, 19);
+    border-radius: 6px;
+    margin-right: 10px;
+
+}
+.quotes{
+    margin: 0;
+    color: #a6a6a6;
+    
+}
+h4{
+    margin: 5px 0px;
+}
+.homeFooter{
+    display: flex;
+    justify-content: space-between;
+
+}
+.homeFooterSub{
+    display: flex;
+}
+.footerDiv{
+    margin-left: 45px;
+    margin-right: 70px;
+}
+.homeLink{
+    text-decoration: none;
+    color: #a6a6a6;
+}
+.footerIcon{
+    display: flex;
+    /* margin-left: 250px; */
+}
+.iconDiv{
+    background-color: #3a3a3a;
+    margin: 10px;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    text-align: center;
+    display: grid;
+    align-items: center;
+}
+.icon{
+    color: white;
+    /* padding-left: 10px;
+    padding-top: 100px; */
+    font-size: 18px;
+    padding-top: 3px;
+
+}
+.copyright{
+    padding:30px 0 40px 40px ;
+    color: #a6a6a6;
+}

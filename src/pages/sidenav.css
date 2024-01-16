@@ -1,0 +1,95 @@
+.sideNav{
+    width: 480px;
+    
+}
+.sidenav-link{
+    display: flex;
+    padding: 10px;
+    font-size: 1rem;
+}
+.sidenav-logo{
+    display: flex;
+    padding: 10px;
+}
+.sidenav-logo-icons{
+    font-size:25px;
+    color:white;
+}
+.sidenav-text{
+    margin: 0;
+    color: white;
+}
+.icon{
+    font-size: 25px;
+    color: white;
+}
+.sidenav-links{
+    padding-right: 200px;
+    background-color: #121212;
+    margin: 9px;
+    border-radius: 5px;
+}
+.sidenav-link-icons{
+    font-size:25px;
+    color:white;
+    padding-right: 10px;
+}
+.library{
+    display: flex;
+    justify-content: space-between;
+    padding: 18px;
+}
+.library-sub{
+    display: flex;
+}
+.library-link{
+    color: #a6a6a6;
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: bold;
+}
+.library-icon{
+    padding-top: 4px;
+    padding-right: 3px;
+    color:#a6a6a6;
+    font-weight: bold;
+}
+.des-text{
+    font-size: 14px;
+    font-weight: bold;
+    padding: 5px 0 15px 0;
+}
+.create-playlist{
+    padding: 18px;
+    color: white;
+    background-color: #242424;
+    margin: 15px 8px 24px 8px;
+    border-radius: 5px;
+}
+.sidenav-btn{
+    border: none;
+    padding: 8px 13px;
+    border-radius: 15px;
+    font-weight: bold;
+}
+.podcasts{
+    padding: 18px;
+    color: white;
+    background-color: #242424;
+    margin: 0 8px 100px 8px;
+    border-radius: 5px;
+}
+.privacy{
+    padding: 5px 5px 90px 5px;
+}
+.privacy-links{
+    color: #a6a6a6;
+    text-decoration: none;
+    font-size: 13px;
+    padding: 7px;
+}
+.sidenav-content{
+    background-color: #121212;
+    margin: 9px;
+    border-radius: 5px;
+}
